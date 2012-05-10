@@ -1,0 +1,71 @@
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\MainWindow.baml
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\MainWindow.g.cs
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\App.g.cs
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre_MarkupCompile.cache
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.g.resources
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.Properties.Resources.resources
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\BloomCombine.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\BloomExtract.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\GaussianBlur.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 1.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 2.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 4.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 5.xnb
+E:\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.exe
+E:\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.pdb
+E:\umfkinect\Kinect Sabre\bin\Debug\Kinect.Toolbox.dll
+E:\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.Render.exe
+E:\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.Render.pdb
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.exe
+E:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.pdb
+H:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.exe
+H:\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.pdb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.exe
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.pdb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\BloomCombine.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\BloomExtract.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\GaussianBlur.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 1.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 2.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 4.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Content\Hum 5.xnb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.exe
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.pdb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.Render.exe
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\bin\Debug\KinectSabre.Render.pdb
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre_MarkupCompile.cache
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.g.resources
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\KinectSabre.Properties.Resources.resources
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\umfkinect\Kinect Sabre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\KinectSabre.exe
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\KinectSabre.pdb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\BloomCombine.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\BloomExtract.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\GaussianBlur.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\Hum 1.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\Hum 2.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\Hum 4.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Content\Hum 5.xnb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\KinectSabre.exe
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\KinectSabre.pdb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\KinectSabre.Render.exe
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\bin\Debug\KinectSabre.Render.pdb
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\KinectSabre_MarkupCompile.cache
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\KinectSabre.g.resources
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\KinectSabre.Properties.Resources.resources
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\saber\asprowlfuller-Sabre-715b659\Kinect Sabre\obj\x86\Debug\GenerateResource.write.1.tlog
